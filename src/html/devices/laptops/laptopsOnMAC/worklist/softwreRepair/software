@@ -4,13 +4,11 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Easy Solution</title>
-  
 </head>
 <body>
-    <img src="/src/img/logo1.png" class= "rounded-img" width="100" height="100">
-    
+    <img src="/src/img/logo1.png" width="100" height="100">
     <ul>
-        <li><a href="/src/html/devices/deviceList.html"> Devices </a></li>
+        <li><a href="./ourPersonal.html">Our Personal</a></li>
         <li><a href="./ourServices.html">Our Services</a></li>
         <li><a href="./price.html">Price</a></li>
       </ul>
